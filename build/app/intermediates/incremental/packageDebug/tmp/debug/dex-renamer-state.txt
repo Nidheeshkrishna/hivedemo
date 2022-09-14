@@ -1,0 +1,4 @@
+#Thu Aug 25 10:43:51 IST 2022
+base.0=/Users/ociuz/PROJECTS/demo/hive_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
